@@ -19,5 +19,5 @@
 [想看教學內容請點我](https://youtu.be/5PEPsEFUnpM)
 
 
-![冰山](https://doc-0o-2c-docs.googleusercontent.com/docs/securesc/o4cqaj37anv2163gvn666ig4fit7lhv6/o3ehkgsd6tebaoitkfdctnumshub4q35/1646496450000/11546923369855598837/12155215132928308169Z/1C0i8Jcv8FCgg3LMOWU8H5HNa75IODeJF?e=download&nonce=2jil7l958smrc&user=12155215132928308169Z&hash=v61s4ivjhdsimj9thr7mdm2unhvn5305)
+![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E5%86%B0%E5%B1%B1%20%E5%B7%B2%E5%8E%BB%E8%83%8C.png)
 ### End
