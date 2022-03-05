@@ -8,5 +8,6 @@
 
 + Screen Recorder 4 是訊連科技研發出來的產品
 + 相較於舊版本，Screen Recorder 4 的特色在於，可同時串流五個網路平台，YouTube、Twitch、Facebook等
++ 其內建的剪輯功能可運用在簡易的教學影片上
 
 [想看教學內容請點我](https://youtu.be/5PEPsEFUnpM)
