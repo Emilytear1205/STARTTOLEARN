@@ -2,7 +2,7 @@
 
  <img src="https://tw.cyberlink.com/upload-file/learning-center/enu/APIcon_SCR4_256.png" width = "200" height = "200" alt="图片名称" align=center />
 
-### Screen Recorder 4 [下載連結](https://tw.cyberlink.com/downloads/trials/screen-recorder/download_zh_TW.html)
+### Screen Recorder 4 [官方下載連結](https://tw.cyberlink.com/downloads/trials/screen-recorder/download_zh_TW.html)
 
 ### 基本介紹
 
