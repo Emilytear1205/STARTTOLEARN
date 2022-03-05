@@ -3,4 +3,4 @@
 ![Screen picture](https://tw.cyberlink.com/upload-file/learning-center/enu/APIcon_SCR4_256.png)
 ### Screen Recorder 4 是訊連科技研發出來的產品
 
-[教學內容]https://youtu.be/5PEPsEFUnpM)
+[想看教學內容請點我](https://youtu.be/5PEPsEFUnpM)
