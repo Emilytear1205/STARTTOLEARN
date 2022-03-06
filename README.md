@@ -70,6 +70,10 @@
 
 4. 剪輯
 
+點開媒體庫，也能夠看見錄好的影片，在這裡我們可以進行編輯。
+
+<img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/24.jpg" width = "600" height = "600" alt="解說介面" align=center />
+
 Screen Recorder 4 有內建的剪輯工具，電腦裡有威力導演的話也會顯示在這裡。如果只是基本的上課影片就可以在這裡進行剪輯。
 
 <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/11.jpg" width = "1000" height = "600" alt="解說介面" align=center />
