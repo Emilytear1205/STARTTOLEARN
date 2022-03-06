@@ -29,6 +29,12 @@
 
 全螢幕錄影我就不多說了，至於其他四種，就是可以選擇一個你想要的軟體、程式、鏡頭畫面進行錄製，其中需要注意的是，在選擇裝置錄影時，要注意網路攝像頭所設定的裝置是不是和裝置錄影相同。
 
+選擇想要的裝置
+ <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/18.jpg" width = "500" height = "500" alt="解說介面" align=center />
+如果選擇了和網路攝像頭相同的裝置程式會提醒你並叫你更改其中一項
+ <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/17.jpg" width = "500" height = "500" alt="解說介面" align=center />
+ 
+ 
 
 ![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
 ### End
