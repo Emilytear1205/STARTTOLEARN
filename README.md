@@ -57,7 +57,9 @@
  
  3. 錄影
 
-在做好基本設定之後，就可以進行錄製，Screen Recorder 4 這邊提供了預覽畫面的功能，我們可以在這裡確認畫面的設置。
+在做好基本設定之後，就可以進行錄製，Screen Recorder 4 這邊提供了「預覽畫面」的功能，我們可以在這裡確認畫面的設置，此外還能在視頻上疊加圖片、調整圖片大小，可用來放浮水印、LOGO等。
+
+ <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/22.jpg" width = "1000" height = "400" alt="解說介面" align=center />
 
 ![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
 
