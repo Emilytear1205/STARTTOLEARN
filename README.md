@@ -61,7 +61,19 @@
 
  <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/22.jpg" width = "1000" height = "400" alt="解說介面" align=center />
  
-將錄影環境準備好之後就可以按下 REC 鍵進行錄製，想要暫停的話要小心不要按到旁邊的白色正方形按鍵，那是停止的意思
+將錄影環境準備好之後就可以按下 REC 鍵進行錄製，想要暫停的話要小心不要按到旁邊的白色正方形按鍵，那是停止的意思。
+
+<img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/23.jpg" width = "500" height = "500" alt="解說介面" align=center />
+
+按下停止錄製的鍵後就會跳出剛才錄好的影片。
+
+<img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/13.jpg" width = "500" height = "500" alt="解說介面" align=center />
+
+4. 剪輯
+
+Screen Recorder 4 有內建的剪輯工具，電腦裡有威力導演的話也會顯示在這裡。如果只是基本的上課影片就可以在這裡進行剪輯。
+
+<img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/11.jpg" width = "500" height = "500" alt="解說介面" align=center />
 
 ![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
 
