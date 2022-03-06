@@ -38,8 +38,14 @@
  <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/19.jpg" width = "500" height = "500" alt="解說介面" align=center />
  
  2. 基本設定
+
+找到偏好設定後，按下｢檔案」，修改檔案存放位置
+
+ <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/20.jpg" width = "500" height = "500" alt="解說介面" align=center />
  
+ 可以在桌面上建立一個資料夾，這樣比較好找到錄好的影片
  
+ <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/2.jpg" width = "500" height = "500" alt="解說介面" align=center />
  
 
 ![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
