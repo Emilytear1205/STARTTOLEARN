@@ -104,7 +104,8 @@ Screen Recorder 4 有內建的剪輯工具，電腦裡有威力導演的話也�
 
 對於 Screen Recorder 4 的講解就到這邊為止，如果還有甚麼不懂的歡迎在影片底下留言詢問、討論。
 
-[想看教學影片請點我](https://youtu.be/X91Ls1A_nj8)
+想看教學影片請點選以下圖片：
+[![想看教學影片請點我](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/%E8%9E%A2%E5%B9%95%E9%8C%84%E8%A3%BD%E7%9A%84%E5%B0%81%E9%9D%A2.jpg)](https://www.youtube.com/watch?v=X91Ls1A_nj8)
 
 ![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
 
