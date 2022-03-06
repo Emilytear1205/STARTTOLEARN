@@ -43,7 +43,7 @@
 
  <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/20.jpg" width = "500" height = "500" alt="解說介面" align=center />
  
- 可以在桌面上建立一個資料夾，這樣比較好找到錄好的影片
+ 按下「瀏覽」就可以選擇你要的存取位置，我是在桌面上建立一個資料夾，這樣較容易找到錄好的影片
  
  <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/2.jpg" width = "500" height = "500" alt="解說介面" align=center />
  
