@@ -17,9 +17,12 @@
 3. 錄影
 4. 圖片疊加
 
-以下內容會分別講解，想看影片解說的請點選以下連結
-[想看教學內容請點我](https://youtu.be/5PEPsEFUnpM)
+以上內容會在內文分別講述，想直接看影片解說的請點選以下連結：
+[想看教學影片請點我](https://youtu.be/5PEPsEFUnpM)
 
+1. 基本設定
+
+![](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/1.jpg)
 
 ![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
 ### End
