@@ -22,7 +22,8 @@
 
 1. 基本設定
 
-![](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/1.jpg)
+一點開 Screen Recorder 4 就可以看見這個操作介面，依照想要錄製的畫面可以分為全螢幕、遊戲、APP(可以訂選一個應用程式進行錄影)、自訂(固定一個錄製的範圍)、裝置()
+![解說介面](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/1.jpg)
 
 ![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
 ### End
