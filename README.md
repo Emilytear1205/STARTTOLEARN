@@ -51,10 +51,9 @@
  
  <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/3.jpg" width = "600" height = "500" alt="解說介面" align=center />
  
- 點選「網路攝像機」，一樣要選好需要的裝置，這邊比較特別的是，Screen Recorder 4 提供了 「色度去背」的功能
+ 點選「網路攝像機」，一樣要選好需要的裝置，這邊比較特別的是，Screen Recorder 4 提供了 「色度去背」的功能，並且可以在背景中添加想要的圖片。
  
-  <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/4.jpg" width = "600" height = "500" alt="解說介面" align=center />
- 
+  <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/21.jpg" width = "600" height = "500" alt="解說介面" align=center />
  
  
 
