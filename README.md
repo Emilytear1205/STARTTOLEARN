@@ -11,13 +11,15 @@
 + 其內建的剪輯功能可運用在簡易的教學影片上
 
 ### 該如何操作 Screen Recorder 4 ？
+
 1. 基本設定(滑鼠、鏡頭、麥克風、影片存放位置)
 2. 色度去背
 3. 錄影
 4. 圖片疊加
 
+以下內容會分別講解，想看影片解說的請點選以下連結
 [想看教學內容請點我](https://youtu.be/5PEPsEFUnpM)
 
 
-![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E5%86%B0%E5%B1%B1%20%E5%B7%B2%E5%8E%BB%E8%83%8C.png)
+![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
 ### End
