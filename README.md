@@ -35,7 +35,7 @@
 
 如果選擇了和網路攝像機相同的裝置程式會提醒你並叫你更改其中一項
 
- <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/17.jpg" width = "500" height = "500" alt="解說介面" align=center />
+ <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/19.jpg" width = "500" height = "500" alt="解說介面" align=center />
  
  
 
