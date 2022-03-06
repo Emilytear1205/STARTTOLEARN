@@ -19,7 +19,7 @@
 5. 圖片疊加
 
 以上內容會在內文分別講述，想直接看影片解說的請點選以下連結：
-[想看教學影片請點我](https://youtu.be/5PEPsEFUnpM)
+[想看教學影片請點我](https://youtu.be/X91Ls1A_nj8)
 
 1. 錄影畫面
 
@@ -60,6 +60,8 @@
 在做好基本設定之後，就可以進行錄製，Screen Recorder 4 這邊提供了「預覽畫面」的功能，我們可以在這裡確認畫面的設置，此外還能在視頻上疊加圖片、調整圖片大小，可用來放浮水印、LOGO等。
 
  <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/22.jpg" width = "1000" height = "400" alt="解說介面" align=center />
+ 
+將錄影環境準備好之後就可以按下 REC 鍵進行錄製，想要暫停的話要小心不要按到旁邊的白色正方形按鍵，那是停止的意思
 
 ![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
 
