@@ -45,11 +45,15 @@
  
  按下「瀏覽」就可以選擇你要的存取位置，我是在桌面上建立一個資料夾，這樣較容易找到錄好的影片。
  
- <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/2.jpg" width = "500" height = "500" alt="解說介面" align=center />
+ <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/2.jpg" width = "600" height = "500" alt="解說介面" align=center />
  
  在「音訊」這裡則是設定你要的麥克風裝置，如果想要錄製到電腦內的聲音，就要記得把系統音點開。
  
- <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/3.jpg" width = "500" height = "500" alt="解說介面" align=center />
+ <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/3.jpg" width = "600" height = "500" alt="解說介面" align=center />
+ 
+ 點選「網路攝像機」，一樣要選好需要的裝置，這邊比較特別的是，Screen Recorder 4 提供了 「色度去背」的功能
+ 
+  <img src="https://github.com/Emilytear1205/STARTTOLEARN/blob/main/%E6%95%99%E5%AD%B8%E6%88%AA%E5%9C%96/4.jpg" width = "600" height = "500" alt="解說介面" align=center />
  
  
  
