@@ -106,6 +106,7 @@ Screen Recorder 4 有內建的剪輯工具，電腦裡有威力導演的話也�
 
 想看教學影片請點選以下圖片：
 <div align="center">
+ 
 [![想看教學影片請點我](https://res.cloudinary.com/marcomontalbano/image/upload/v1646813989/video_to_markdown/images/youtube--X91Ls1A_nj8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=X91Ls1A_nj8 "")
 
 ![冰山](https://github.com/Emilytear1205/STARTTOLEARN/blob/main/The%20End_page-0001.jpg)
